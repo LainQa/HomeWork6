@@ -11,6 +11,6 @@ public class TestBase {
         Configuration.startMaximized=true;
     }
     public static final String REPOSITORY = "eroshenkoam/allure-example";
-
+    public static final Integer ISSUE_NUMBER = 68;
 }
 
